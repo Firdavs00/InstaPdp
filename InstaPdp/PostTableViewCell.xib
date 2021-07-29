@@ -151,7 +151,6 @@
                 <outlet property="fullname" destination="3Hz-53-ksM" id="sBF-Ox-khH"/>
                 <outlet property="post_img" destination="ByF-uA-EAc" id="h4g-ru-tAU"/>
                 <outlet property="user_img" destination="Nhr-jT-XAP" id="Fj3-Wh-xXR"/>
-                <outlet property="user_name" destination="Nhr-jT-XAP" id="qku-33-LL9"/>
             </connections>
             <point key="canvasLocation" x="387.68115942028987" y="110.82589285714285"/>
         </tableViewCell>
